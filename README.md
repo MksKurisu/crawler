@@ -1,2 +1,7 @@
 # crawler
-simple crawler made by java
+
+用java做的一个简单跨页爬虫，核心思想是通过分页组件获取各页的url，后按页爬取详情页的<a>里的href，再对详情页进行信息爬取。
+
+信息源：成都人才网
+
+自我保存用
